@@ -1,0 +1,42 @@
+.bike--container{
+    /* background-color: black; */
+    width: 100%;
+    /* height: 80vh; */
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 2rem; */
+    align-items: center;
+}
+
+.bike--container img{
+    border-radius: 8px;
+}
+
+.image--container{
+    text-align: center;
+}
+
+.bike-main-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.table--body{
+    text-align: justify;
+}
+
+.td{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.colon{
+    padding: 0 0.5rem;
+}
+
+.data{
+    font-family: sans-serif;
+}
